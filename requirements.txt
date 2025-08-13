@@ -1,0 +1,14 @@
+gradio
+pandas
+scikit-learn
+joblib
+plotly
+scipy
+gpt4all
+xgboost
+lightgbm
+catboost
+torch
+torchvision
+torchaudio
+imbalanced-learn
